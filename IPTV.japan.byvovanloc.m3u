@@ -1,30 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qr9qCfk/TBSlogobyvovanloc.png" group-title=JAPAN",TBS
-http://203.162.235.41:16907/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qr9qCfk/TBSlogobyvovanloc.png" group-title=JAPAN",TBS (S2)
-http://tbs.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0fYkDJ9/BSTBSlogobyvovanloc.png" group-title=JAPAN",BS TBS
-http://203.162.235.41:16913/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3M7gRQ/TVAsahilogobyvovanloc.png" group-title=JAPAN",TV Asahi
-http://203.162.235.41:16906/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MBZrLbn/fujitvlogobyvovanloc.png" group-title=JAPAN",Fujj TV
-http://203.162.235.41:16904/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MBZrLbn/fujitvlogobyvovanloc.png" group-title=JAPAN",Fujj TV (S2)
-https://fujitv1.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKBHBC0/Nippon-TVlogobyvovanloc.png" group-title=JAPAN",NIPPON TV
-http://203.162.235.41:16905/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKBHBC0/Nippon-TVlogobyvovanloc.png" group-title=JAPAN",NIPPON TV (S2)
-http://ntv1.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnFQ0Md/nhklogobyvovanloc.png" group-title=JAPAN",NHK
-http://203.162.235.41:16901/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Zx14G8/NHKGlogobyvovanloc.png" group-title=JAPAN",NHK G
-http://203.162.235.41:16903/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K7DN4Js/NHKBSPlogobyvovanloc.png" group-title=JAPAN",NHK BSP
-http://203.162.235.41:16910/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NLCKZBs/NHKWorldlogobyvovanloc.png" group-title=JAPAN",NHK World
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XpT5vzX/Bsfujilogobyvovanloc.png" group-title=JAPAN",BS Fuji
-http://203.162.235.41:16911/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QbxcKFP/BSNipponlogobyvovanloc.png" group-title=JAPAN",BS Nippon
-http://203.162.235.41:16912/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYDNPGq/Wowow-Cinefil-Logobyvovanloc.png" group-title=JAPAN", Wowow Cinefil
-http://203.162.235.41:16916/
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://live.qphim.xyz/epg.xml"
+#EXTINF:-1 tvg-id="tbs" group-title="TBS" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png" catchup-type="append" catchup-days="5" catchup-source="?t=${start}&d=${offset}", KuboLive #Server 1
+https://nl.utako.moe/TBS/index.m3u8
